@@ -1,0 +1,24 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happyname0617/timestamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happyname0617/timestamp/issues"
+  },
+  "homepage": "https://github.com/happyname0617/timestamp#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "moment": "^2.18.1"
+  }
+}
